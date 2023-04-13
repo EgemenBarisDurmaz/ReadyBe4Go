@@ -1,0 +1,46 @@
+/* body {
+    overflow: hidden;
+} */
+
+.text-hover:hover {
+    -webkit-transform: scale(1.2);
+}
+
+.hidden {
+    /* width: ;
+    position: fixed; */
+    /* z-index: -1; */
+    visibility: hidden;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    padding-left: 0;
+    height: auto;
+    margin-top: -7px;
+}
+
+.timeTable:hover {
+    background-color: rgba(53, 71, 71, 0.411) !important;
+}
+
+p {
+    margin-bottom: 0rem !important;
+}
+
+.top-link>p:hover {
+    color: black !important
+}
+
+.top-link-container>.active>p{
+    color: black !important
+}
+
+.logout-button:hover>a{
+        color:black !important
+}
+/* Chrome, Safari, Edge, Opera */
+.phone-input::-webkit-outer-spin-button,
+.phone-input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
